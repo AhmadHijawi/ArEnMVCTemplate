@@ -1,0 +1,4 @@
+D:\Work\ArEnMVCTemplate\ArEnMVCTemplate\obj\Debug\ArEnMVCTemplate.csprojResolveAssemblyReference.cache
+D:\Work\ArEnMVCTemplate\ArEnMVCTemplate\obj\Debug\ArEnMVCTemplate.Resources.MainResources.resources
+D:\Work\ArEnMVCTemplate\ArEnMVCTemplate\obj\Debug\ArEnMVCTemplate.Resources.MainResources.ar.resources
+D:\Work\ArEnMVCTemplate\ArEnMVCTemplate\obj\Debug\ArEnMVCTemplate.csproj.GenerateResource.Cache
